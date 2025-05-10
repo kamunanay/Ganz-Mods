@@ -1,9 +1,15 @@
 ![Kirito Kirigaya](https://media3.giphy.com/media/xULW8B4WU7Rjh5po88/giphy.gif?cid=6c09b952ne8wb0jeonmf4jfr1j1ro9w95ohp6872tot6wdwb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
-## Author
-**Development** : **Ganz-Mods**
-**Age** : **17 Year**
-**Address** : **Soul-Land**
+<div align="center">
 
-## Menuju Akun Sosial Media
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)![Facebook](https://img.shields.io/badge/Facebook-2CA5E0?style=for-the-badge&logo=Facebook&logoColor=white)![TikTok](https://img.shields.io/badge/TikTok-2CA5E0?style=for-the-badge&logo=TikTok&logoColor=white)
+## 🌀 Author
+**Dev** : **Ganz**  
+**Age** : **17 Year**  
+**Region** : **Soul Land**  
+
+## 🔗 Social Media
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
+
+</div>
