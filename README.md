@@ -8,8 +8,8 @@
 **Region** : **Soul Land**  
 
 ## 🔗 Social Media
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourusername)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@NOT144FOUND)
+[![Instagram](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/@YUSUFKENZZ)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@notsuspend.21)
 
 </div>
