@@ -1,5 +1,5 @@
 ## Preview Anime Vibes
-![Gojo vs Sukuna](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3kzNHB2cnlyMzVsc3Y0YTRibzRhNXc3Z2txaHBraTF6ZGZzdmplYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rWobvhM0yoA9pr1zKR/giphy.gif)
+![Kirito Kirigaya](https://media3.giphy.com/media/xULW8B4WU7Rjh5po88/giphy.gif?cid=6c09b952ne8wb0jeonmf4jfr1j1ro9w95ohp6872tot6wdwb&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
 ## Author
 **Development** : **Ganz-Mods**
