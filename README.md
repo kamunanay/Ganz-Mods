@@ -6,6 +6,7 @@
 **Dev** : **Ganz**  
 **Age** : **17 Year**  
 **Region** : **Soul Land**  
+**Deskripsi** : **Someone Who Wants To Be A Reliable Web Dev Programmer And Also Become A Hacker**
 
 ## 🔗 Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@NOT144FOUND)
