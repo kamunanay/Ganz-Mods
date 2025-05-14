@@ -6,7 +6,7 @@
 **Dev** : **Ganz**  
 **Age** : **17 Year**  
 **Region** : **Soul Land**  
-**Deskripsi** : **Is a teenager who wants to become a web Dev programmer, script tools, Bug bounty **
+**Deskripsi** : **Is a teenager who wants to become a web Dev programmer, script tools, Bug bounty**
 
 ## 🔗 Social Media
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@NOT144FOUND)
